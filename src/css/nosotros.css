@@ -1,0 +1,25 @@
+.nosotros-estilo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+.info-nosotros{
+    width:90%;
+    max-width: 1000px;
+    padding: 30px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 0 1px 4px 0 rgba(12, 12, 13, 0.2), 0 0 0 1px rgba(0, 0, 0, 0.25);
+    margin-top: -100px;
+    z-index: 2;
+}
+@media(max-width:575px){
+    .galimg,.galimg img{
+        max-width:100%;
+    }
+    .container-img-2{
+        width:97%;
+    }
+}

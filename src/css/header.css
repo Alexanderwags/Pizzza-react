@@ -1,0 +1,18 @@
+.banner-header{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   position: relative;
+}
+.banner-header:before{
+    content: '';
+    position: absolute;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 457px;
+    width: 100%;
+}
+.banner-header h1{
+  color: white;
+  z-index: 2;
+}

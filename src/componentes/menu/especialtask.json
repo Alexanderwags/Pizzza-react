@@ -1,0 +1,73 @@
+[
+   {
+       "id":"0",
+       "title":"Queso",
+       "price":"$20",
+       "rutaimg":"pizza_01.jpg",
+       "description":"Con queso mozarella / romano / parmesano derretido y con queso chedar encima"
+   },
+    {
+        "id": "1",
+        "title": "Tocino",
+        "price": "$15",
+        "rutaimg":"pizza_02.jpg",
+        "description": "Con una gran porción de tocino y carne de res, además de queso mozarella y chedar"
+    },
+    {
+        "id": "2",
+        "title": "Vegetariana",
+        "price": "$17",
+        "rutaimg":"pizza_03.jpg",
+        "description": "Champiñones, aceitunas negras y verdes, cebolla y pimiento verde, además queso chedar"
+    },
+    {
+        "id": "3",
+        "title": "Especial",
+        "price": "$20",
+        "rutaimg":"pizza_04.jpg",
+        "description": "Peperoni, salsa italiana, carne de res, cebolla, pimiento verde, aceitunas negras y jalapeños"
+    },
+    {
+        "id": "4",
+        "title": "Espinacas",
+        "price": "$17",
+        "rutaimg":"pizza_05.jpg",
+        "description":"Espinacas, cebolla, jitomate, ajo fresco, queso derretido y con queso chedar encima" 
+    },
+    {
+        "id": "5",
+        "title": "Pizza Blanca",
+        "price": "$20",
+        "rutaimg":"pizza_06.jpg",
+        "description":"Mucho queso! además de jamón y peperoni, con salsa italiana, tocino, cebolla y pimientos verdes" 
+    },
+    {
+        "id": "6",
+        "title": "Pasta",
+        "price": "$10",
+        "rutaimg":"otros_01.jpg",
+        "description":"Servido con ensalada y pan de ajo fresco, puede ser con spaguetti y pollo con carne de res" 
+    },
+    {
+        "id": "7",
+        "title": "Calzone",
+        "price": "$20",
+        "rutaimg":"otros_02.jpg",
+        "description": "Relleno generosamente, cuidadosamente cocinado y cubierto con nuestra salsa especial de ajo"
+    },
+    {
+        "id": "8",
+        "title": "Lazaña",
+        "price": "$15",
+        "rutaimg":"otros_03.jpg",
+        "description": "Capaz de salsa con carne de res y cuatro tipos de quesos, cocinado a la perfección"
+    },
+    {
+        "id": "9",
+        "title": "Ensaldas",
+        "price": "$15",
+        "rutaimg":"otros_04.jpg",
+        "description":"Lechuga, pollo asado, tomates pequeños, incluye queso parmesano y crutones."
+    }
+
+]

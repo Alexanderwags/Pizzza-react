@@ -1,0 +1,59 @@
+[
+    {
+        "id":"0",       
+        "rutaimg":"01.jpg",
+        "description":" Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo        consequat",
+        "price":"35$"
+    },
+     {
+         "id": "1",
+         "rutaimg":"02.jpg",
+         "description":" Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo        consequat",
+         "price":"35$"
+
+     },
+     {
+         "id": "2",
+         "rutaimg":"03.jpg",
+         "description":" Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo        consequat",
+         "price":"35$"
+     
+     },
+     {
+         "id": "3",
+         "rutaimg":"04.jpg",
+         "description":" Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo        consequat",
+         "price":"35$"
+     
+     },
+     {
+         "id": "4",
+         "rutaimg":"05.jpg",
+         "description":" Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo        consequat",
+         "price":"35$"
+     
+     },
+     {
+         "id": "5",
+         "rutaimg":"06.jpg",
+         "description":" Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo        consequat",
+         "price":"35$"
+     
+     },
+     {
+         "id": "6",
+         "rutaimg":"07.jpg",
+         "description":" Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo        consequat",
+         "price":"35$"
+     
+     },
+     {
+        "id": "7",
+        "rutaimg":"08.jpg",
+        "description":" Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo        consequat",
+        "price":"35$" 
+    }
+ 
+ 
+ 
+ ]

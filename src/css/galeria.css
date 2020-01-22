@@ -1,0 +1,105 @@
+
+.container-img{
+   
+   display: flex;
+   width: 100%;
+   flex-wrap: wrap;
+   justify-content: center;
+  
+}
+.galimg-title{
+    color:brown;
+    width: 100%;
+    font-weight: bold;
+}
+.galimg{
+   max-width: 300px;
+   width: 100%;
+   margin:5px;
+   position: relative;
+   display:inline-block
+}
+.galimg img{
+   max-width: 300px;
+   width: 100%;
+   height: 200px;
+}
+.galimg-hover{
+  
+  position:absolute;
+  top:0;
+  left:0;
+  z-index:-1;
+  padding:10px;
+  margin:0;
+}
+.galimg:hover img{
+   opacity: 0.07;
+   -webkit-transition: opacity 500ms;
+   -moz-transition: opacity 500ms;
+   -o-transition: opacity 500ms;
+   -ms-transition: opacity 500ms;
+   transition: opacity 500ms;
+ }
+ .galimg-hover-1{
+     display:none;
+ }
+ .galimg-hover-2{
+  
+   position:absolute;
+   top:0;
+   left:0;
+   z-index:-1;
+   padding:10px;
+   margin:0;
+   background-color: steelblue;
+   height: 200px;
+ }
+ .galimg-hover-2 p{
+    font-size: 0.8rem;
+ }
+ .galimg-hover-3{
+   position:absolute;
+   top:0;
+   left:0;
+   z-index:-1;
+   padding:10px;
+   margin:0;
+   background-color: rgb(18, 66, 105);
+   height: 200px;
+   width:100%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   font-size: 1.5rem;
+ }
+ .galimg-hover-3 a{
+     color:white;
+     text-decoration: none;
+ }
+ .galimg:hover img + .galimg-hover-3{
+    z-index: 1;
+ }
+ .galimg:hover img + .galimg-hover-3 .modal{
+   z-index: 1;
+}
+ .carousel.slide{
+    height:600px;
+ }
+ .carousel-inner{
+    height:600px;
+    background: black;
+ }
+.carousel-item .d-block.w-100{
+    height:600px;
+ }
+ .slider .container-fluid.text-center{
+     padding-left: 0;
+     padding-right: 0;
+ }
+ @media (max-width:575PX){
+   .carousel-inner,.carousel-item .d-block.w-100,.carousel.slide{
+       height:350px;
+   }
+}
+ 

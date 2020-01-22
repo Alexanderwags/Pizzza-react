@@ -1,0 +1,21 @@
+[
+    {
+        "id":"0",       
+        "fondo":"bg-ingredientes.jpg",
+        "img":"pizza_transparente.gif",
+        "title":"Ingredientes Frescos con todas nuestras pizzas",
+        "description":" Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo        consequat",
+        "enlace":"Ver Más"
+         
+    },
+    {
+        "id":"1",       
+        "fondo":"pizza_04.jpg",
+        "img":"pizza_transparente.gif",
+        "title":"La mejor pizza de la ciudad",
+        "description":" Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo        consequat",
+        "enlace":"Ver Más"
+         
+    }
+ 
+ ]

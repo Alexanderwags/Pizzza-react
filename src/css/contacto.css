@@ -1,0 +1,65 @@
+.formulario{
+
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.form-contact{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    width:80%;
+    max-width:500px;
+    
+}
+.form-contact input{
+    background: unset;
+    color:white;
+    border: 2px solid white;
+    padding: 2%;
+}
+.estilo-form{
+    max-width:500px;
+    width:100%;
+    margin-top: 5px;
+}
+.btn-red{
+    background-color: crimson;
+    width: 200px;
+    height: 40px;
+    color:white;
+    border:0;
+    
+
+}
+.btn-red:hover{
+    background-color: white;
+    transition: 0.3s;
+    color:crimson;
+    
+}
+.contacto-vino{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    width: 80%;
+    height: auto;
+    background-color: white;
+    margin-top: -150px;
+    z-index: 2;
+}
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+input[type=text-area]{
+    height:100px;
+    transition: width 0.4s ease-in-out;
+}
