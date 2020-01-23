@@ -6,7 +6,7 @@ export default class App extends Component {
     return (
       <div>
           <Menu/>
-       
+       <p>hn</p>
       </div>
     )
   }
